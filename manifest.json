@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Clean Task",
+  "version": "1.0",
+  "description": "A simple Task list saver with local storage. That keep your tasks organized and easy to manage",
+  "icons": {
+    "192": "android-chrome-192x192.png",
+    "512": "android-chrome-512x512.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "favicon-32x32.png"
+  },
+  "permissions": ["storage"]
+}
